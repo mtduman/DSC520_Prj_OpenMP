@@ -1,0 +1,13 @@
+Dim= 10, iterations=         16, Z= -3.466072939204e-01
+Dim= 10, iterations=         64, Z=  7.198029258584e-01
+Dim= 10, iterations=        256, Z=  7.428388387601e-01
+Dim= 10, iterations=       1024, Z=  2.193662219927e-01
+Dim= 10, iterations=       4096, Z=  9.710737150246e-02
+Dim= 10, iterations=      16384, Z= -2.108062003019e-02
+Dim= 10, iterations=      65536, Z= -1.900207465166e-02
+Dim= 10, iterations=     262144, Z= -1.651675140169e-02
+Dim= 10, iterations=    1048576, Z= -2.861002458223e-03
+Dim= 10, iterations=    4194304, Z= -2.120815241001e-03
+Dim= 10, iterations=   16777216, Z=  6.045395321028e-04
+Dim= 10, iterations=   67108864, Z=  3.448560390746e-04
+Dim= 10, iterations=  100000000, Z=  6.747072587884e-04
